@@ -9,7 +9,7 @@
 
 ```python
 IB = {
-    'pronouns': 'he/his',
+    'year of birth': '2003',
     'code': ['Python', 'Javascript', 'HTML', 'CSS', 'Go', '1C/C'  'Java'],
     'tools': ['FastAPI', 'React', 'Tailwind', 'Node', 'Vite', 'Linux', 'Docker', '1C'],
     'architecture': ['microservices', 'event-driven', 'client-server'],
