@@ -10,10 +10,10 @@
 ```python
 IB = {
     'year_of_birth': '2003',
-    'code': ['Python', 'JavaScript'],
-    'tools': ['FastAPI', 'React', 'Tailwind', 'Node', 'Vite', 'Linux' '1C'],
+    'code': ['Python', 'JS/TS', 'PHP'],
+    'tools': ['FastAPI', 'NodeJS', 'Burp Suite', 'IDA/Ghidra', 'Zabbix', 'Linux', '1C'],
     'architecture': ['microservices', 'event-driven', 'client-server'],
-    'focus': 'I'm diving into how big applications are designed & built.'
+    'focus': 'DevSecOps'
 }
 ```
 
